@@ -9,14 +9,24 @@
 @import './utils-scss-files/normalize';
 @import './utils-scss-files/maingeometry';
 
-@import './program-section/part1';
-@import './program-section/part2';
-@import './program-section/main';
-@import './program-section/lesson-image';
-@import './utils-scss-files/slaider/slaider';
+//@import './program-section/part1';
+///@import './program-section/part2';
+//@import './program-section/main';
+//@import './program-section/lesson-image';
+//@import './utils-scss-files/slaider/slaider';
 
-@import './layouts/request';
+//@import './layouts/request';
+@import './part1';
+@import './part2';
+@import './main-part';
+
+//@import './main';
+@import './lesson-image';
 
 @import './teacher';
+@import './slaider';
 
-@import './layouts/footer';
+@import './footer';
+@import './request';
+
+//@import './layouts/footer';
