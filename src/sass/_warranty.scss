@@ -9,7 +9,6 @@
   }
 }
 .warranty.container {
-  outline: px solid red;
   margin-top: px;
   background-color: $guarantee-color;
   height: 430px;
@@ -34,8 +33,6 @@
   }
 }
 .warranty-header {
-  outline: px solid red;
-
   font-family: $primary-font;
   font-style: normal;
   font-weight: 800;
@@ -57,11 +54,8 @@
   }
 }
 .warranty-list {
-  outline: px solid red;
 }
 .warranty-item {
-  outline: px solid red;
-
   font-family: $primary-font;
   font-style: normal;
   font-weight: 500;
